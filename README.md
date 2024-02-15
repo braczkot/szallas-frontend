@@ -1,0 +1,1 @@
+# szallas-frontend
